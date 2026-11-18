@@ -1,0 +1,28 @@
+[
+ {
+  "neighbourhood": "La Glacire",
+  "room_type": "Entire home/apt",
+  "guests": 10,
+  "bedrooms": 5.0,
+  "target": "families",
+  "price": 335,
+  "status": "VALIDATED",
+  "dates": [
+   "2026-12-19",
+   "2026-12-26"
+  ]
+ },
+ {
+  "neighbourhood": "Chartrons - Grand Parc - Jardin Public",
+  "room_type": "Entire home/apt",
+  "guests": 4,
+  "bedrooms": 2.0,
+  "target": "families",
+  "price": 181,
+  "status": "VALIDATED",
+  "dates": [
+   "2026-12-19",
+   "2026-12-26"
+  ]
+ }
+]
